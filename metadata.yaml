@@ -1,0 +1,32 @@
+_repo: The-Laughing-Cavalier--The-Story-of-the-Ancestor-of-the-Scarlet-Pimpernel_33208
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Barstow, Montagu, Mrs.
+    - Orczy, Baroness Emmuska
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2010-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Netherlands -- History -- 17th century -- Fiction'
+- !lcsh 'Adventure stories'
+title: 'The Laughing Cavalier: The Story of the Ancestor of the Scarlet Pimpernel'
+url: http://www.gutenberg.org/ebooks/33208
